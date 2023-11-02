@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464136925566",
+    "firebase_url": "https://chat-a9a5f-default-rtdb.firebaseio.com",
+    "project_id": "chat-a9a5f",
+    "storage_bucket": "chat-a9a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464136925566:android:2f63c380140fd7b7cd832f",
+        "android_client_info": {
+          "package_name": "uz.umarov.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yrrt61qBUkZFugybh_wHQfBO96-8xCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

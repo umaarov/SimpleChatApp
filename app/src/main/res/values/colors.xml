@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC107</color>
+    <color name="green_bold">#3A683C</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="gray">#777777</color>
+    <color name="green">#2D8C31</color>
+    <color name="red">#AF2015</color>
+    <color name="select_msg">#9550A3E4</color>
+    <color name="userMessageColor">#2196F3</color> <!-- Blue color -->
+    <color name="video_counter_color_pix">#E53935</color>
+    <color name="primary_color_pix">#075e54</color>
+    <color name="primary_light_color_pix">#80075e54</color>
+    <color name="surface_color_pix">#ffffff</color>
+    <color name="text_color_pix">#807f7f</color>
+
+</resources>
